@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Abid Islam, Founder of Abidora and Boostnix Media" width="100%">
+  <img src="assets/banner.svg" alt="Abid Islam, Founder of Abidora" width="100%">
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ### 👋 About me
 
 - 🚀 **Founder of [Abidora](https://abidora.boostnixmedia.com/)**, an immersive web universe of 3D worlds with its own AI assistant.
-- 💼 **Founder of [Boostnix Media](https://boostnixmedia.com/)**, a digital marketing and web agency that builds websites and online shops for businesses in Bangladesh.
+- 💼 **Working at [Boostnix Media](https://boostnixmedia.com/)**, a digital marketing and web agency that builds websites and online shops for businesses in Bangladesh.
 - 🎓 BBA student, 73rd batch, **Shanto-Mariam University of Creative Technology** (SMUCT).
 - 📍 Based in **Dhaka, Bangladesh**. I build in **Bangla and English**, so websites work for customers in cities and villages alike.
 
@@ -45,7 +45,7 @@ AI assistants that speak Bangla naturally · immersive 3D on the web · fast, ph
 
 ### 🤝 Let's connect
 
-Need a website, an online shop or digital marketing for your business? Message me on WhatsApp or reach me through **[Boostnix Media](https://boostnixmedia.com/)**.
+Need a website, an online shop or digital marketing for your business? Message me on WhatsApp or LinkedIn.
 
 | | |
 |---|---|
