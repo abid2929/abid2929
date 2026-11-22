@@ -28,8 +28,8 @@
 |---|---|---|---|
 | 🌌 **[Abidora](https://github.com/abid2929/ABID-ORA)** | "A Universe Without Limits": immersive multi-world platform with 3D worlds, an AI assistant and 10 languages | Astro, TypeScript, Three.js, PHP | [Website](https://abidora.boostnixmedia.com/) |
 | 👟 **[JUTAR BAZAR BD](https://github.com/abid2929/JUTAR-BAZAR)** | Bangla-first online shoe shop: cart, cash on delivery, order tracking, WhatsApp ordering, Bangla admin with AI auto captions | PHP 8, SQLite, JavaScript | [Demo](https://abid2929.github.io/JUTAR-BAZAR/) |
-| 📈 **[Boostnix Media](https://github.com/abid2929/BOOSTNIX-MEDIA)** | Agency website with services, video showcase, orders and contact | HTML, CSS, JavaScript | [Demo](https://abid2929.github.io/BOOSTNIX-MEDIA/) |
-| 🕌 **[Bashundhara Kazi Office](https://github.com/abid2929/BASHUNDHARA-KAZI-OFFICE-)** | Bilingual service website for a Kazi office in Dhaka, with gallery and admin | HTML, CSS, JavaScript, PHP | [Demo](https://abid2929.github.io/BASHUNDHARA-KAZI-OFFICE-/) |
+| 📈 **[Boostnix Media](https://github.com/abid2929/BOOSTNIX-MEDIA)** | Agency website with services, video showcase, orders and contact | HTML, CSS, JavaScript | [Website](https://boostnixmedia.com/) |
+| 🕌 **[Bashundhara Kazi Office](https://github.com/abid2929/BASHUNDHARA-KAZI-OFFICE-)** | Bilingual service website for a Kazi office in Dhaka, with gallery and admin | HTML, CSS, JavaScript, PHP | [Website](https://bashundharakaziofficebd.com/) |
 
 ### 🧰 Tools I work with
 
