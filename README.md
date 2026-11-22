@@ -47,7 +47,7 @@ AI assistants that speak Bangla naturally · immersive 3D on the web · fast, ph
 
 Need a website, an online shop or digital marketing for your business? Message me on WhatsApp or LinkedIn.
 
-| | |
+| Where | Link |
 |---|---|
 | 💬 **WhatsApp** | [Chat with me](https://wa.me/8801775776473) |
 | 💼 **LinkedIn** | [abid-islam-a926ab2b5](https://www.linkedin.com/in/abid-islam-a926ab2b5/) |
