@@ -37,21 +37,12 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://jutarbazarbd.com/"><img src="assets/sites/jutar-bazar.jpg" alt="Jutar Bazar online shoe shop" width="100%"></a>
-<h3>👟 Jutar Bazar</h3>
-<p>Bangla-first online shoe shop: product slider, categories, cart, cash on delivery, order tracking and WhatsApp ordering. Bangla admin with sales chart and AI auto captions.</p>
-<p><kbd>PHP 8</kbd> <kbd>SQLite</kbd> <kbd>JavaScript</kbd> <kbd>Admin panel</kbd></p>
-<p>🔗 <a href="https://jutarbazarbd.com/"><b>jutarbazarbd.com</b></a> &nbsp;·&nbsp; <a href="https://github.com/abid2929/JUTAR-BAZAR">Code</a></p>
-</td>
-<td width="50%" valign="top">
 <a href="https://abidora.boostnixmedia.com/"><img src="assets/sites/abidora.jpg" alt="Abidora immersive 3D universe" width="100%"></a>
 <h3>🌌 Abidora</h3>
 <p>"A Universe Without Limits": an immersive platform of 3D worlds you can explore and play with, an AI assistant with voice, and 10 languages.</p>
 <p><kbd>Astro</kbd> <kbd>TypeScript</kbd> <kbd>Three.js</kbd> <kbd>PHP</kbd> <kbd>Gemini AI</kbd></p>
 <p>🔗 <a href="https://abidora.boostnixmedia.com/"><b>abidora.boostnixmedia.com</b></a> &nbsp;·&nbsp; <a href="https://github.com/abid2929/ABID-ORA">Code</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <a href="https://boostnixmedia.com/"><img src="assets/sites/boostnix.jpg" alt="Boostnix Media agency website" width="100%"></a>
 <h3>📈 Boostnix Media</h3>
@@ -59,12 +50,21 @@
 <p><kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>JavaScript</kbd> <kbd>PHP</kbd> <kbd>GA4 + Pixel</kbd></p>
 <p>🔗 <a href="https://boostnixmedia.com/"><b>boostnixmedia.com</b></a> &nbsp;·&nbsp; <a href="https://github.com/abid2929/BOOSTNIX-MEDIA">Code</a></p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://bashundharakaziofficebd.com/"><img src="assets/sites/kazi.jpg" alt="Bashundhara Kazi Office website" width="100%"></a>
 <h3>🕌 Bashundhara Kazi Office</h3>
 <p>Bilingual (Bangla + English) service website for a Kazi office in Dhaka: services, photo gallery, videos, contact and a private admin panel.</p>
 <p><kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>JavaScript</kbd> <kbd>PHP</kbd></p>
 <p>🔗 <a href="https://bashundharakaziofficebd.com/"><b>bashundharakaziofficebd.com</b></a> &nbsp;·&nbsp; <a href="https://github.com/abid2929/BASHUNDHARA-KAZI-OFFICE-">Code</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://jutarbazarbd.com/"><img src="assets/sites/jutar-bazar.jpg" alt="Jutar Bazar online shoe shop" width="100%"></a>
+<h3>👟 Jutar Bazar</h3>
+<p>Bangla-first online shoe shop: product slider, categories, cart, cash on delivery, order tracking and WhatsApp ordering. Bangla admin with sales chart and AI auto captions.</p>
+<p><kbd>PHP 8</kbd> <kbd>SQLite</kbd> <kbd>JavaScript</kbd> <kbd>Admin panel</kbd></p>
+<p>🔗 <a href="https://jutarbazarbd.com/"><b>jutarbazarbd.com</b></a> &nbsp;·&nbsp; <a href="https://github.com/abid2929/JUTAR-BAZAR">Code</a></p>
 </td>
 </tr>
 <tr>
