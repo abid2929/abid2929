@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="151" height="44" viewBox="0 0 151 44" role="img" aria-label="ABIDORA">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0.00" stop-color="#7c3aed"/><stop offset="1.00" stop-color="#db2777"/></linearGradient><clipPath id="c"><rect width="151" height="44" rx="12"/></clipPath></defs>
+<rect width="151" height="44" rx="12" fill="url(#g)"/>
+<rect width="151" height="22" rx="12" fill="#fff" opacity=".08"/>
+<g transform="translate(18 10)" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18.816 13.58c2.292 2.138 3.546 4 3.092 4.9c-.745 1.46 -5.783 -.259 -11.255 -3.838c-5.47 -3.579 -9.304 -7.664 -8.56 -9.123c.464 -.91 2.926 -.444 5.803 .805" /><path d="M5 12a7 7 0 1 0 14 0a7 7 0 1 0 -14 0" /></g>
+<text x="54" y="28.5" fill="#fff" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="1" textLength="71" lengthAdjust="spacingAndGlyphs">ABIDORA</text>
+</svg>

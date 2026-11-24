@@ -14,10 +14,7 @@
 </p>
 
 <p align="center">
-  <kbd>&nbsp;8 websites built&nbsp;</kbd> &nbsp;
-  <kbd>&nbsp;5 live on real domains&nbsp;</kbd> &nbsp;
-  <kbd>&nbsp;4 online shops with admin panel&nbsp;</kbd> &nbsp;
-  <kbd>&nbsp;Bangla + English&nbsp;</kbd>
+  <img src="assets/ui/stats.svg" alt="8 websites built · 5 live on real domains · 4 online shops with admin · Bangla + English" width="100%">
 </p>
 
 ---
@@ -68,23 +65,12 @@
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<a href="https://boostnixmedia.com/bus/"><img src="assets/sites/bus-fare.jpg" alt="Dhaka bus fare finder" width="100%"></a>
+<td colspan="2" valign="top">
+<a href="https://boostnixmedia.com/bus/"><img src="assets/sites/bus-fare.jpg" alt="Dhaka bus fare finder" width="52%" align="left"></a>
 <h3>🚌 Dhaka Bus Fare</h3>
-<p>Type any two stops and see which bus routes go there, the official BRTA fare, student fare and distance. Includes a Bangla helper bot for questions.</p>
-<p><kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>JavaScript</kbd> <kbd>BRTA data</kbd></p>
+<p>Free tool for Dhaka commuters: type any two stops and instantly see which bus routes go there, the official BRTA fare, the student fare and the distance. A Bangla helper bot answers questions.</p>
+<p><kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>JavaScript</kbd> <kbd>BRTA fare data</kbd></p>
 <p>🔗 <a href="https://boostnixmedia.com/bus/"><b>boostnixmedia.com/bus</b></a></p>
-</td>
-<td width="50%" valign="top">
-<h3>💡 Need a website like these?</h3>
-<p>I build fast, beautiful websites and online shops for businesses in Bangladesh, in Bangla and English, with an easy admin panel you can run from your phone.</p>
-<p>
-✅ Online shop with cart and cash on delivery<br>
-✅ Bangla admin panel for products, orders and banners<br>
-✅ WhatsApp ordering and Facebook Pixel<br>
-✅ SEO, fast loading and phone-first design
-</p>
-<p>💬 <a href="https://wa.me/8801775776473"><b>Message me on WhatsApp</b></a></p>
 </td>
 </tr>
 </table>
@@ -121,16 +107,16 @@
 
 <sub>All four shops share one admin panel I designed: Bangla by default with an English button, for products, orders, banners, reviews, delivery charges and staff roles.</sub>
 
+<p align="center">
+  <a href="https://wa.me/8801775776473"><img src="assets/ui/cta.svg" alt="Need a website or online shop? Message me on WhatsApp" width="100%"></a>
+</p>
+
 ---
 
 ## 🧰 Tools I work with
 
-<p>
-  <kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>JavaScript</kbd> <kbd>TypeScript</kbd> <kbd>PHP 8</kbd> <kbd>SQLite</kbd> <kbd>MySQL</kbd>
-  <kbd>Astro</kbd> <kbd>Three.js</kbd> <kbd>GSAP</kbd> <kbd>Google Gemini API</kbd>
-</p>
-<p>
-  <kbd>cPanel</kbd> <kbd>GitHub Pages</kbd> <kbd>Git &amp; GitHub</kbd> <kbd>Facebook Pixel</kbd> <kbd>Google Analytics 4</kbd> <kbd>SEO</kbd> <kbd>Lighthouse</kbd>
+<p align="center">
+  <img src="assets/ui/tools.svg" alt="HTML5, CSS3, JavaScript, TypeScript, PHP 8, SQLite, MySQL, Astro, Three.js, GSAP, Gemini AI, cPanel, GitHub Pages, Facebook Pixel, Google Analytics 4, SEO" width="100%">
 </p>
 
 ## 🔭 What I'm exploring
@@ -143,19 +129,17 @@ AI assistants that speak Bangla naturally · immersive 3D on the web · fast, ph
 
 Need a website, an online shop or digital marketing for your business? Message me on WhatsApp or LinkedIn.
 
-<table>
-<tr>
-<td align="center" width="25%">💬<br><a href="https://wa.me/8801775776473"><b>WhatsApp</b></a></td>
-<td align="center" width="25%">💼<br><a href="https://www.linkedin.com/in/abid-islam-a926ab2b5/"><b>LinkedIn</b></a></td>
-<td align="center" width="25%">📘<br><a href="https://www.facebook.com/abidislaammm"><b>Facebook</b></a></td>
-<td align="center" width="25%">📸<br><a href="https://www.instagram.com/abid__islamm"><b>Instagram</b></a></td>
-</tr>
-<tr>
-<td align="center">𝕏<br><a href="https://x.com/AbidIslam129309"><b>X (Twitter)</b></a></td>
-<td align="center">🎵<br><a href="https://www.tiktok.com/@abid_shaa"><b>TikTok</b></a></td>
-<td align="center">🌌<br><a href="https://abidora.boostnixmedia.com/"><b>Abidora</b></a></td>
-<td align="center">🌐<br><a href="https://boostnixmedia.com/"><b>Boostnix Media</b></a></td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://wa.me/8801775776473"><img src="assets/ui/btn-whatsapp.svg" alt="WhatsApp" height="40"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/abid-islam-a926ab2b5/"><img src="assets/ui/btn-linkedin.svg" alt="LinkedIn" height="40"></a>&nbsp;
+  <a href="https://www.facebook.com/abidislaammm"><img src="assets/ui/btn-facebook.svg" alt="Facebook" height="40"></a>&nbsp;
+  <a href="https://www.instagram.com/abid__islamm"><img src="assets/ui/btn-instagram.svg" alt="Instagram" height="40"></a>&nbsp;
+</p>
+<p align="center">
+  <a href="https://x.com/AbidIslam129309"><img src="assets/ui/btn-x.svg" alt="X (Twitter)" height="40"></a>&nbsp;
+  <a href="https://www.tiktok.com/@abid_shaa"><img src="assets/ui/btn-tiktok.svg" alt="TikTok" height="40"></a>&nbsp;
+  <a href="https://abidora.boostnixmedia.com/"><img src="assets/ui/btn-abidora.svg" alt="Abidora" height="40"></a>&nbsp;
+  <a href="https://boostnixmedia.com/"><img src="assets/ui/btn-boostnix.svg" alt="Boostnix Media" height="40"></a>&nbsp;
+</p>
 
 <p align="center"><sub>Thanks for visiting ✨ · Made with care in Dhaka, Bangladesh</sub></p>
