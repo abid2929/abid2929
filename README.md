@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/ui/stats.svg" alt="8 websites built · 5 live on real domains · 4 online shops with admin · Bangla + English" width="100%">
+  <img src="assets/ui/stats.svg" alt="9 websites built · 6 live on real domains · 5 online shops with admin · Bangla + English" width="100%">
 </p>
 
 ---
@@ -64,6 +64,15 @@
 <p>🔗 <a href="https://jutarbazarbd.com/"><b>jutarbazarbd.com</b></a> &nbsp;·&nbsp; <a href="https://github.com/abid2929/JUTAR-BAZAR">Code</a></p>
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+<a href="https://lifebdshop.com/"><img src="assets/sites/lifebdshop.jpg" alt="Life BD Shop online shoe shop" width="52%" align="left"></a>
+<h3>🧡 Life BD Shop <sup><kbd>NEW</kbd></sup></h3>
+<p>Orange and white sneaker shop, rebuilt from WordPress into a fast custom site: running, sneakers and fashion shoes, one-tap Order Now, cash on delivery and WhatsApp chat, with a Bangla admin panel for the owner.</p>
+<p><kbd>PHP 8</kbd> <kbd>SQLite</kbd> <kbd>JavaScript</kbd> <kbd>Admin panel</kbd></p>
+<p>🔗 <a href="https://lifebdshop.com/"><b>lifebdshop.com</b></a> &nbsp;·&nbsp; <a href="https://github.com/abid2929/LIFEBDSHOP">Code</a></p>
+</td>
+</tr>
 </table>
 
 ---
@@ -105,7 +114,7 @@
 </tr>
 </table>
 
-<sub>All four shops share one admin panel I designed: Bangla by default with an English button, for products, orders, banners, reviews, delivery charges and staff roles.</sub>
+<sub>All my shops share one admin panel I designed: Bangla by default with an English button, for products, orders, banners, reviews, delivery charges and staff roles.</sub>
 
 <p align="center">
   <a href="https://wa.me/8801775776473"><img src="assets/ui/cta.svg" alt="Need a website or online shop? Message me on WhatsApp" width="100%"></a>
