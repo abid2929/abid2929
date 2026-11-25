@@ -116,7 +116,7 @@
 <td colspan="3" valign="top">
 <a href="https://abid2929.github.io/ELITE-SMART-HUB/"><img src="assets/sites/elite-smart-hub.jpg" alt="Elite Smart Hub premium subscription shop on PC and phone" width="52%" align="left"></a>
 <h3>👑 Elite Smart Hub <sup><kbd>NEW</kbd></sup></h3>
-<p>Premium black, red and gold shop for digital subscriptions: Netflix, YouTube Premium, ChatGPT, Canva, CapCut, VPN and game top-ups. Plans grouped by service, today's offer, order tracking, bKash / Nagad / Rocket payment and WhatsApp ordering, with a Bangla admin panel.</p>
+<p>Bright red and white premium shop for 100+ digital subscriptions: ChatGPT, Google AI Pro, Claude, Netflix, Spotify, Canva, CapCut, VPN and game top-ups. Colourful banner slider, real service logos, "Most Popular" picks, today's offer, product pages with plans, order tracking, bKash / Nagad / Rocket payment and WhatsApp chat, plus a Bangla admin panel.</p>
 <p><kbd>HTML</kbd> <kbd>JavaScript</kbd> <kbd>PHP</kbd> <kbd>JSON</kbd> <kbd>Admin panel</kbd></p>
 <p>🔗 <a href="https://abid2929.github.io/ELITE-SMART-HUB/"><b>Visit shop</b></a> · <a href="https://abid2929.github.io/ELITE-SMART-HUB/admin/">Admin demo</a> · <a href="https://github.com/abid2929/ELITE-SMART-HUB">Code</a></p>
 </td>
