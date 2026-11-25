@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/ui/stats.svg" alt="9 websites built · 6 live on real domains · 5 online shops with admin · Bangla + English" width="100%">
+  <img src="assets/ui/stats.svg" alt="10 websites built · 6 live on real domains · 6 online shops with admin · Bangla + English" width="100%">
 </p>
 
 ---
@@ -110,6 +110,15 @@
 <p>Premium fashion and beauty shop: lips, skincare, makeup and fragrance, with flash sale countdown and wishlist.</p>
 <p><kbd>PHP 8</kbd> <kbd>SQLite</kbd> <kbd>JavaScript</kbd></p>
 <p>🔗 <a href="https://abid2929.github.io/Loom-Lustre/"><b>Visit shop</b></a> · <a href="https://abid2929.github.io/Loom-Lustre/admin/">Admin demo</a> · <a href="https://github.com/abid2929/Loom-Lustre">Code</a></p>
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="top">
+<a href="https://abid2929.github.io/ELITE-SMART-HUB/"><img src="assets/sites/elite-smart-hub.jpg" alt="Elite Smart Hub premium subscription shop on PC and phone" width="52%" align="left"></a>
+<h3>👑 Elite Smart Hub <sup><kbd>NEW</kbd></sup></h3>
+<p>Premium black, red and gold shop for digital subscriptions: Netflix, YouTube Premium, ChatGPT, Canva, CapCut, VPN and game top-ups. Plans grouped by service, today's offer, order tracking, bKash / Nagad / Rocket payment and WhatsApp ordering, with a Bangla admin panel.</p>
+<p><kbd>HTML</kbd> <kbd>JavaScript</kbd> <kbd>PHP</kbd> <kbd>JSON</kbd> <kbd>Admin panel</kbd></p>
+<p>🔗 <a href="https://abid2929.github.io/ELITE-SMART-HUB/"><b>Visit shop</b></a> · <a href="https://abid2929.github.io/ELITE-SMART-HUB/admin/">Admin demo</a> · <a href="https://github.com/abid2929/ELITE-SMART-HUB">Code</a></p>
 </td>
 </tr>
 </table>
