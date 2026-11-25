@@ -64,22 +64,22 @@
 <p>🔗 <a href="https://jutarbazarbd.com/"><b>jutarbazarbd.com</b></a> &nbsp;·&nbsp; <a href="https://github.com/abid2929/JUTAR-BAZAR">Code</a></p>
 </td>
 </tr>
-<tr>
-<td colspan="2" valign="top">
-<a href="https://boostnixmedia.com/bus/"><img src="assets/sites/bus-fare.jpg" alt="Dhaka bus fare finder" width="52%" align="left"></a>
-<h3>🚌 Dhaka Bus Fare</h3>
-<p>Free tool for Dhaka commuters: type any two stops and instantly see which bus routes go there, the official BRTA fare, the student fare and the distance. A Bangla helper bot answers questions.</p>
-<p><kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>JavaScript</kbd> <kbd>BRTA fare data</kbd></p>
-<p>🔗 <a href="https://boostnixmedia.com/bus/"><b>boostnixmedia.com/bus</b></a></p>
-</td>
-</tr>
 </table>
 
 ---
 
-## 🛍️ Online shops on GitHub Pages
+## 🚀 Live demos on GitHub Pages
 
 <table>
+<tr>
+<td colspan="3" valign="top">
+<a href="https://abid2929.github.io/DHAKA-BUS-FARE/"><img src="assets/sites/bus-fare.jpg" alt="Dhaka Bus Fare app on PC and phone" width="100%"></a>
+<h3>🚌 Dhaka Bus Fare <sup><kbd>NEW DESIGN</kbd></sup></h3>
+<p>A free, app-style tool for Dhaka commuters. Type any two stops (Bangla, Banglish or with typos) and instantly get the official BRTA fare, the student fare, the distance and every stop on the way. On PC the trip is drawn on a map; on phone it works like a ride app with a bottom tab bar. Also: 113 routes, 300+ stops, 82 bus companies, one-change trip suggestions, dark mode and a Bangla helper bot.</p>
+<p><kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>JavaScript</kbd> <kbd>BRTA fare data</kbd> <kbd>Bangla bot</kbd></p>
+<p>🔗 <a href="https://abid2929.github.io/DHAKA-BUS-FARE/"><b>Open demo</b></a> · <a href="https://boostnixmedia.com/bus/">Live site</a> · <a href="https://github.com/abid2929/DHAKA-BUS-FARE">Code</a></p>
+</td>
+</tr>
 <tr>
 <td width="33%" valign="top">
 <a href="https://abid2929.github.io/petverse/"><img src="assets/sites/petverse.jpg" alt="PetVerse pet shop" width="100%"></a>
