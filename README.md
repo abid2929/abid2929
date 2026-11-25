@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="#-live-websites"><b>🌐 Live websites</b></a> &nbsp;·&nbsp;
-  <a href="#-online-shops-on-github-pages"><b>🛍️ Online shops</b></a> &nbsp;·&nbsp;
+  <a href="#-live-demos-on-github-pages"><b>🚀 Live demos</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/abid-islam-a926ab2b5/"><b>💼 LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="https://wa.me/8801775776473"><b>💬 WhatsApp</b></a>
 </p>
