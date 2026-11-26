@@ -94,9 +94,17 @@
 <a href="https://abid2929.github.io/DHAKA-BUS-FARE/"><img src="assets/sites/bus-fare.jpg" alt="Dhaka Bus Fare app on PC and phone" width="52%" align="left"></a>
 <h3>🚌 Dhaka Bus Fare <sup><kbd>NEW DESIGN</kbd></sup></h3>
 <p><sub>🔗 Live at <a href="https://boostnixmedia.com/bus/">boostnixmedia.com/bus</a></sub></p>
-<p>A free, app-style tool for Dhaka commuters. Type any two stops (Bangla, Banglish or with typos) and instantly get the official BRTA fare, the student fare, the distance and every stop on the way. On PC the trip is drawn on a map; on phone it works like a ride app with a bottom tab bar. Also: 113 routes, 300+ stops, 82 bus companies, one-change trip suggestions, dark mode and a Bangla helper bot.</p>
+<p>A free, app-style tool for Dhaka commuters, now with 4 separate pages: Fare finder, All routes, All stops and Bus companies. Type any two stops (Bangla, Banglish or with typos) and instantly get the official BRTA fare, the student fare, the distance and every stop on the way. On PC the trip is drawn on a map; on phone it works like a ride app with a bottom tab bar. Also: 113 routes, 300+ stops, 82 bus companies, one-change trip suggestions, dark mode and a Bangla helper bot.</p>
 <p><kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>JavaScript</kbd> <kbd>BRTA fare data</kbd> <kbd>Bangla bot</kbd></p>
 <p><a href="https://abid2929.github.io/DHAKA-BUS-FARE/"><img src="assets/ui/b-demo.svg" alt="Visit" height="34"></a> <a href="https://github.com/abid2929/DHAKA-BUS-FARE"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
+<br clear="all">
+<p><b>📱 4 pages, tap one to open it:</b></p>
+<p align="center">
+  <a href="https://abid2929.github.io/DHAKA-BUS-FARE/"><img src="assets/sites/bus-page-1.jpg" alt="Fare finder" width="24%"></a>
+  <a href="https://abid2929.github.io/DHAKA-BUS-FARE/routes.html"><img src="assets/sites/bus-page-2.jpg" alt="All routes" width="24%"></a>
+  <a href="https://abid2929.github.io/DHAKA-BUS-FARE/stops.html"><img src="assets/sites/bus-page-3.jpg" alt="All stops" width="24%"></a>
+  <a href="https://abid2929.github.io/DHAKA-BUS-FARE/buses.html"><img src="assets/sites/bus-page-4.jpg" alt="Bus companies" width="24%"></a>
+</p>
 </td>
 </tr>
 <tr>
