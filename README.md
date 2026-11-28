@@ -19,6 +19,14 @@
 
 ---
 
+## 🧰 Tools I work with
+
+<p align="center">
+  <img src="assets/ui/tools.svg" alt="HTML5, CSS3, JavaScript, TypeScript, PHP 8, SQLite, MySQL, Astro, Three.js, GSAP, Gemini AI, cPanel, GitHub Pages, Facebook Pixel, Google Analytics 4, SEO" width="100%">
+</p>
+
+---
+
 ## 👋 About me
 
 - 🚀 **Founder of [Abidora](https://abidora.boostnixmedia.com/)**, an immersive web universe of 3D worlds with its own AI assistant.
@@ -185,12 +193,6 @@
 </p>
 
 ---
-
-## 🧰 Tools I work with
-
-<p align="center">
-  <img src="assets/ui/tools.svg" alt="HTML5, CSS3, JavaScript, TypeScript, PHP 8, SQLite, MySQL, Astro, Three.js, GSAP, Gemini AI, cPanel, GitHub Pages, Facebook Pixel, Google Analytics 4, SEO" width="100%">
-</p>
 
 ## 🔭 What I'm exploring
 
