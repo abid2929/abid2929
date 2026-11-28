@@ -8,13 +8,14 @@
 
 <p align="center">
   <a href="#live-websites"><b>🌐 Live websites</b></a> &nbsp;·&nbsp;
-  <a href="#live-demos"><b>🚀 Live demos</b></a> &nbsp;·&nbsp;
+  <a href="#live-demos"><b>🛍️ Shop demos</b></a> &nbsp;·&nbsp;
+  <a href="#coming-soon"><b>🛠️ Coming soon</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/abid-islam-a926ab2b5/"><b>💼 LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="https://wa.me/8801775776473"><b>💬 WhatsApp</b></a>
 </p>
 
 <p align="center">
-  <img src="assets/ui/stats.svg" alt="10 websites built · 6 live on real domains · 6 online shops with admin · Bangla + English" width="100%">
+  <img src="assets/ui/stats.svg" alt="11 websites built · 7 live on real domains · 6 online shops with admin · Bangla + English" width="100%">
 </p>
 
 ---
@@ -31,72 +32,53 @@
 
 <a id="live-websites"></a>
 
-<p align="center"><img src="assets/ui/h-live.svg" alt="Live websites on real domains" width="100%"></p>
+<p align="center"><img src="assets/ui/h-live.svg" alt="Live websites" width="100%"></p>
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<a href="https://abidora.boostnixmedia.com/"><img src="assets/sites/abidora.jpg" alt="Abidora immersive 3D universe" width="100%"></a>
-<h3>🌌 Abidora</h3>
-<p><sub>🔗 abidora.boostnixmedia.com</sub></p>
-<p>"A Universe Without Limits": an immersive platform of 3D worlds you can explore and play with, an AI assistant with voice, and 10 languages.</p>
-<p><kbd>Astro</kbd> <kbd>TypeScript</kbd> <kbd>Three.js</kbd> <kbd>PHP</kbd> <kbd>Gemini AI</kbd></p>
-<p><a href="https://abidora.boostnixmedia.com/"><img src="assets/ui/b-visit.svg" alt="Visit" height="34"></a> <a href="https://github.com/abid2929/ABID-ORA"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://boostnixmedia.com/"><img src="assets/sites/boostnix.jpg" alt="Boostnix Media agency website" width="100%"></a>
-<h3>📈 Boostnix Media</h3>
-<p><sub>🔗 boostnixmedia.com</sub></p>
-<p>Digital marketing agency website: services, monthly plans, digital products store, video showcase, online orders and contact, with its own admin and tracking.</p>
-<p><kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>JavaScript</kbd> <kbd>PHP</kbd> <kbd>GA4 + Pixel</kbd></p>
-<p><a href="https://boostnixmedia.com/"><img src="assets/ui/b-visit.svg" alt="Visit" height="34"></a> <a href="https://github.com/abid2929/BOOSTNIX-MEDIA"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://bashundharakaziofficebd.com/"><img src="assets/sites/kazi.jpg" alt="Bashundhara Kazi Office website" width="100%"></a>
-<h3>🕌 Bashundhara Kazi Office</h3>
-<p><sub>🔗 bashundharakaziofficebd.com</sub></p>
-<p>Bilingual (Bangla + English) service website for a Kazi office in Dhaka: services, photo gallery, videos, contact and a private admin panel.</p>
-<p><kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>JavaScript</kbd> <kbd>PHP</kbd></p>
-<p><a href="https://bashundharakaziofficebd.com/"><img src="assets/ui/b-visit.svg" alt="Visit" height="34"></a> <a href="https://github.com/abid2929/BASHUNDHARA-KAZI-OFFICE-"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
-</td>
 <td width="50%" valign="top">
 <a href="https://jutarbazarbd.com/"><img src="assets/sites/jutar-bazar.jpg" alt="Jutar Bazar online shoe shop" width="100%"></a>
 <h3>👟 Jutar Bazar</h3>
-<p><sub>🔗 jutarbazarbd.com</sub></p>
-<p>Bangla-first online shoe shop with light premium banners and style cards: categories, cart, cash on delivery, order tracking and WhatsApp ordering. Bangla admin with sales chart and AI auto captions.</p>
+<p><img src="assets/ui/s-live.svg" alt="live" height="22">&nbsp; <sub>jutarbazarbd.com</sub></p>
+<p>Bangla-first online shoe shop: light premium banners, style cards, cart, cash on delivery, order tracking and WhatsApp ordering. Bangla admin with sales chart and AI auto captions.</p>
 <p><kbd>PHP 8</kbd> <kbd>SQLite</kbd> <kbd>JavaScript</kbd> <kbd>Admin panel</kbd></p>
-<p><a href="https://jutarbazarbd.com/"><img src="assets/ui/b-visit.svg" alt="Visit" height="34"></a> <a href="https://github.com/abid2929/JUTAR-BAZAR"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
+<p><a href="https://jutarbazarbd.com/"><img src="assets/ui/b-visit.svg" alt="Open" height="34"></a> <a href="https://github.com/abid2929/JUTAR-BAZAR"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://petversebd.com/"><img src="assets/sites/petverse.jpg" alt="PetVerse pet shop" width="100%"></a>
+<h3>🐾 PetVerse</h3>
+<p><img src="assets/ui/s-live.svg" alt="live" height="22">&nbsp; <sub>petversebd.com</sub></p>
+<p>Pet shop and care for Bashundhara and Baridhara: food by brand, toys, pharmacy, deals of the day and home service booking, with its own English + Bangla admin and one-click backup.</p>
+<p><kbd>HTML</kbd> <kbd>JavaScript</kbd> <kbd>PHP</kbd> <kbd>JSON</kbd></p>
+<p><a href="https://petversebd.com/"><img src="assets/ui/b-shop.svg" alt="Open" height="34"></a> <a href="https://github.com/abid2929/petverse"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://loomlustreshop.com/"><img src="assets/sites/loom-lustre.jpg" alt="Loom and Lustre fashion and beauty store" width="100%"></a>
+<h3>💄 Loom &amp; Lustre</h3>
+<p><img src="assets/ui/s-live.svg" alt="live" height="22">&nbsp; <sub>loomlustreshop.com</sub></p>
+<p>Premium fashion and beauty store: sarees, kurtis, western wear, men, kids, home decor, bags, jewellery and makeup, with department menus, flash sale countdown, wishlist and admin backup.</p>
+<p><kbd>PHP 8</kbd> <kbd>SQLite</kbd> <kbd>JavaScript</kbd></p>
+<p><a href="https://loomlustreshop.com/"><img src="assets/ui/b-shop.svg" alt="Open" height="34"></a> <a href="https://github.com/abid2929/Loom-Lustre"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://bashundharakaziofficebd.com/"><img src="assets/sites/kazi.jpg" alt="Bashundhara Kazi Office website" width="100%"></a>
+<h3>🕌 Bashundhara Kazi Office</h3>
+<p><img src="assets/ui/s-live.svg" alt="live" height="22">&nbsp; <sub>bashundharakaziofficebd.com</sub></p>
+<p>Bilingual (Bangla + English) service website for a Kazi office in Dhaka: services, photo gallery, videos, contact and a private admin panel.</p>
+<p><kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>JavaScript</kbd> <kbd>PHP</kbd></p>
+<p><a href="https://bashundharakaziofficebd.com/"><img src="assets/ui/b-visit.svg" alt="Open" height="34"></a> <a href="https://github.com/abid2929/BASHUNDHARA-KAZI-OFFICE-"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
-<a href="https://lifebdshop.com/"><img src="assets/sites/lifebdshop.jpg" alt="Life BD Shop online shoe shop" width="52%" align="left"></a>
-<h3>🧡 Life BD Shop <sup><kbd>NEW</kbd></sup></h3>
-<p><sub>🔗 lifebdshop.com</sub></p>
-<p>Orange and white sneaker shop, rebuilt from WordPress into a fast custom site: running, sneakers and fashion shoes, one-tap Order Now, cash on delivery and WhatsApp chat, with a Bangla admin panel for the owner.</p>
-<p><kbd>PHP 8</kbd> <kbd>SQLite</kbd> <kbd>JavaScript</kbd> <kbd>Admin panel</kbd></p>
-<p><a href="https://lifebdshop.com/"><img src="assets/ui/b-visit.svg" alt="Visit" height="34"></a></p>
-</td>
-</tr>
-</table>
-
----
-
-<a id="live-demos"></a>
-
-<p align="center"><img src="assets/ui/h-demos.svg" alt="Live demos on GitHub Pages" width="100%"></p>
-
-<table>
-<tr>
-<td colspan="2" valign="top">
-<a href="https://abid2929.github.io/DHAKA-BUS-FARE/"><img src="assets/sites/bus-fare.jpg" alt="Dhaka Bus Fare app on PC and phone" width="52%" align="left"></a>
-<h3>🚌 Dhaka Bus Fare <sup><kbd>NEW DESIGN</kbd></sup></h3>
-<p><sub>🔗 Live at <a href="https://boostnixmedia.com/bus/">boostnixmedia.com/bus</a></sub></p>
+<a href="https://boostnixmedia.com/bus/"><img src="assets/sites/bus-fare.jpg" alt="Dhaka Bus Fare app on PC and phone" width="52%" align="left"></a>
+<h3>🚌 Dhaka Bus Fare</h3>
+<p><img src="assets/ui/s-live.svg" alt="live" height="22">&nbsp; <sub>boostnixmedia.com/bus</sub></p>
 <p>A free, app-style tool for Dhaka commuters, now with 4 separate pages: Fare finder, All routes, All stops and Bus companies. Type any two stops (Bangla, Banglish or with typos) and instantly get the official BRTA fare, the student fare, the distance and every stop on the way. On PC the trip is drawn on a map; on phone it works like a ride app with a bottom tab bar. Also: 113 routes, 300+ stops, 82 bus companies, one-change trip suggestions, dark mode and a Bangla helper bot.</p>
 <p><kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>JavaScript</kbd> <kbd>BRTA fare data</kbd> <kbd>Bangla bot</kbd></p>
-<p><a href="https://abid2929.github.io/DHAKA-BUS-FARE/"><img src="assets/ui/b-demo.svg" alt="Visit" height="34"></a> <a href="https://github.com/abid2929/DHAKA-BUS-FARE"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
+<p><a href="https://boostnixmedia.com/bus/"><img src="assets/ui/b-visit.svg" alt="Open" height="34"></a> <a href="https://github.com/abid2929/DHAKA-BUS-FARE"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
 <br clear="all">
 <p><b>📱 4 pages, tap one to open it:</b></p>
 <p align="center">
@@ -109,43 +91,75 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://abid2929.github.io/petverse/"><img src="assets/sites/petverse.jpg" alt="PetVerse pet shop" width="100%"></a>
-<h3>🐾 PetVerse</h3>
-<p><sub>🛍️ Pet shop · Bangladesh</sub></p>
-<p>Pet shop for cats, dogs, birds and small pets: food by brand, toys, pharmacy, deals of the day and home service booking, with an app-style phone bar.</p>
-<p><kbd>HTML</kbd> <kbd>JavaScript</kbd> <kbd>PHP</kbd> <kbd>JSON</kbd></p>
-<p><a href="https://abid2929.github.io/petverse/"><img src="assets/ui/b-shop.svg" alt="Visit" height="34"></a> <a href="https://abid2929.github.io/petverse/admin/"><img src="assets/ui/b-admin.svg" alt="Admin demo" height="34"></a> <a href="https://github.com/abid2929/petverse"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
+<a href="https://social.boostnixmedia.com/"><img src="assets/sites/social.jpg" alt="Boostnix Social publishing platform" width="100%"></a>
+<h3>📣 Boostnix Social</h3>
+<p><img src="assets/ui/s-live.svg" alt="live" height="22">&nbsp; <sub>social.boostnixmedia.com</sub></p>
+<p>Social media publishing platform: write once and post or schedule to Facebook, Instagram, YouTube, TikTok, X, Threads, LinkedIn, Pinterest, Telegram and WhatsApp, with a calendar, bulk scheduler, analytics and an AI assistant.</p>
+<p><kbd>PHP 8</kbd> <kbd>SQLite</kbd> <kbd>Cron</kbd> <kbd>Official APIs</kbd> <kbd>Gemini AI</kbd></p>
+<p><a href="https://social.boostnixmedia.com/"><img src="assets/ui/b-app.svg" alt="Open" height="34"></a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://abid2929.github.io/Christmas-Gallery/"><img src="assets/sites/christmas-gallery.jpg" alt="Christmas Gallery decoration shop" width="100%"></a>
-<h3>🎄 Christmas Gallery</h3>
-<p><sub>🛍️ Christmas decoration shop</sub></p>
-<p>Red and gold Christmas decoration shop in Bangla with an English switch: trees, balls, lights, Santa showpieces, wreaths and gifts, with WhatsApp ordering.</p>
-<p><kbd>HTML</kbd> <kbd>JavaScript</kbd> <kbd>PHP</kbd> <kbd>JSON</kbd></p>
-<p><a href="https://abid2929.github.io/Christmas-Gallery/"><img src="assets/ui/b-shop.svg" alt="Visit" height="34"></a> <a href="https://abid2929.github.io/Christmas-Gallery/admin/"><img src="assets/ui/b-admin.svg" alt="Admin demo" height="34"></a> <a href="https://github.com/abid2929/Christmas-Gallery"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://abid2929.github.io/Loom-Lustre/"><img src="assets/sites/loom-lustre.jpg" alt="Loom and Lustre fashion and beauty shop" width="100%"></a>
-<h3>💄 Loom &amp; Lustre</h3>
-<p><sub>🛍️ Fashion &amp; beauty store</sub></p>
-<p>Premium fashion and beauty store: sarees, kurtis, western wear, men, kids, bags, jewellery and makeup, with department menus, flash sale countdown and wishlist.</p>
-<p><kbd>PHP 8</kbd> <kbd>SQLite</kbd> <kbd>JavaScript</kbd></p>
-<p><a href="https://abid2929.github.io/Loom-Lustre/"><img src="assets/ui/b-shop.svg" alt="Visit" height="34"></a> <a href="https://abid2929.github.io/Loom-Lustre/admin/"><img src="assets/ui/b-admin.svg" alt="Admin demo" height="34"></a> <a href="https://github.com/abid2929/Loom-Lustre"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://abid2929.github.io/ELITE-SMART-HUB/"><img src="assets/sites/elite-smart-hub.jpg" alt="Elite Smart Hub premium subscription shop" width="100%"></a>
-<h3>👑 Elite Smart Hub</h3>
-<p><sub>🛍️ Premium subscriptions</sub></p>
-<p>Red and white shop for 100+ digital subscriptions (ChatGPT, Gemini, Claude, Netflix, Spotify, Canva, VPN): instant search, 10 category shortcuts, a page for every product, bKash / Nagad / Rocket and a 5-tab phone bar.</p>
-<p><kbd>HTML</kbd> <kbd>JavaScript</kbd> <kbd>PHP</kbd> <kbd>JSON</kbd></p>
-<p><a href="https://abid2929.github.io/ELITE-SMART-HUB/"><img src="assets/ui/b-shop.svg" alt="Visit" height="34"></a> <a href="https://abid2929.github.io/ELITE-SMART-HUB/admin/"><img src="assets/ui/b-admin.svg" alt="Admin demo" height="34"></a> <a href="https://github.com/abid2929/ELITE-SMART-HUB"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
+<a href="https://boostnixmedia.com/"><img src="assets/sites/boostnix.jpg" alt="Boostnix Media agency website" width="100%"></a>
+<h3>📈 Boostnix Media</h3>
+<p><img src="assets/ui/s-live.svg" alt="live" height="22">&nbsp; <sub>boostnixmedia.com</sub></p>
+<p>Digital marketing agency website: services, monthly plans, digital products store, video showcase, online orders and contact, with its own admin and tracking.</p>
+<p><kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>JavaScript</kbd> <kbd>PHP</kbd> <kbd>GA4 + Pixel</kbd></p>
+<p><a href="https://boostnixmedia.com/"><img src="assets/ui/b-visit.svg" alt="Open" height="34"></a> <a href="https://github.com/abid2929/BOOSTNIX-MEDIA"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
 </td>
 </tr>
 </table>
 
-<sub>All my shops share one admin panel I designed: Bangla by default with an English button, for products, orders, banners, reviews, delivery charges and staff roles.</sub>
+<a id="live-demos"></a>
+
+<p align="center"><img src="assets/ui/h-pages.svg" alt="Online shop demos on GitHub Pages" width="100%"></p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://abid2929.github.io/Christmas-Gallery/"><img src="assets/sites/christmas-gallery.jpg" alt="Christmas Gallery decoration shop" width="100%"></a>
+<h3>🎄 Christmas Gallery</h3>
+<p><img src="assets/ui/s-pages.svg" alt="pages" height="22">&nbsp; <sub>abid2929.github.io/Christmas-Gallery</sub></p>
+<p>Red and gold Christmas decoration shop in Bangla with an English switch: trees, balls, lights, Santa showpieces, wreaths and gifts, with WhatsApp ordering.</p>
+<p><kbd>HTML</kbd> <kbd>JavaScript</kbd> <kbd>PHP</kbd> <kbd>JSON</kbd></p>
+<p><a href="https://abid2929.github.io/Christmas-Gallery/"><img src="assets/ui/b-shop.svg" alt="Open" height="34"></a> <a href="https://abid2929.github.io/Christmas-Gallery/admin/"><img src="assets/ui/b-admin.svg" alt="Admin demo" height="34"></a> <a href="https://github.com/abid2929/Christmas-Gallery"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://abid2929.github.io/ELITE-SMART-HUB/"><img src="assets/sites/elite-smart-hub.jpg" alt="Elite Smart Hub premium subscription shop" width="100%"></a>
+<h3>👑 Elite Smart Hub</h3>
+<p><img src="assets/ui/s-pages.svg" alt="pages" height="22">&nbsp; <sub>abid2929.github.io/ELITE-SMART-HUB</sub></p>
+<p>Red and white shop for 100+ digital subscriptions (ChatGPT, Gemini, Claude, Netflix, Spotify, Canva, VPN): instant search, 10 category shortcuts, a page for every product, bKash / Nagad / Rocket and a 5-tab phone bar.</p>
+<p><kbd>HTML</kbd> <kbd>JavaScript</kbd> <kbd>PHP</kbd> <kbd>JSON</kbd></p>
+<p><a href="https://abid2929.github.io/ELITE-SMART-HUB/"><img src="assets/ui/b-shop.svg" alt="Open" height="34"></a> <a href="https://abid2929.github.io/ELITE-SMART-HUB/admin/"><img src="assets/ui/b-admin.svg" alt="Admin demo" height="34"></a> <a href="https://github.com/abid2929/ELITE-SMART-HUB"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
+</td>
+</tr>
+</table>
+
+<a id="coming-soon"></a>
+
+<p align="center"><img src="assets/ui/h-soon.svg" alt="Coming soon" width="100%"></p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://abidora.boostnixmedia.com/"><img src="assets/sites/abidora.jpg" alt="Abidora immersive 3D universe" width="100%"></a>
+<h3>🌌 Abidora</h3>
+<p><img src="assets/ui/s-preview.svg" alt="preview" height="22">&nbsp; <sub>abidora.boostnixmedia.com</sub></p>
+<p>"A Universe Without Limits": my own platform of immersive 3D worlds, an AI assistant with voice and 10 languages. Being polished world by world.</p>
+<p><kbd>Astro</kbd> <kbd>TypeScript</kbd> <kbd>Three.js</kbd> <kbd>PHP</kbd> <kbd>Gemini AI</kbd></p>
+<p><a href="https://abidora.boostnixmedia.com/"><img src="assets/ui/b-preview.svg" alt="Open" height="34"></a> <a href="https://github.com/abid2929/ABID-ORA"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://lifebdshop.com/"><img src="assets/sites/lifebdshop.jpg" alt="Life BD Shop online shoe shop" width="100%"></a>
+<h3>🧡 Life BD Shop</h3>
+<p><img src="assets/ui/s-soon.svg" alt="soon" height="22">&nbsp; <sub>lifebdshop.com</sub></p>
+<p>Orange and white sneaker shop, rebuilt from WordPress into a fast custom site: running, sneakers and fashion shoes, one-tap Order Now, cash on delivery and a Bangla admin panel.</p>
+<p><kbd>PHP 8</kbd> <kbd>SQLite</kbd> <kbd>JavaScript</kbd> <kbd>Admin panel</kbd></p>
+<p><a href="https://lifebdshop.com/"><img src="assets/ui/b-visit.svg" alt="Open" height="34"></a></p>
+</td>
+</tr>
+</table>
+
+<sub>Every shop comes with an easy admin panel I designed, in Bangla and English: products, orders, banners, reviews, delivery charges, staff roles and backups, all from a phone.</sub>
 
 <p align="center">
   <a href="https://wa.me/8801775776473"><img src="assets/ui/cta.svg" alt="Need a website or online shop? Message me on WhatsApp" width="100%"></a>
