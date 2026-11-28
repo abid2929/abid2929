@@ -148,7 +148,7 @@
 <p><img src="assets/ui/s-pages.svg" alt="pages" height="22">&nbsp; <sub>abid2929.github.io/JOVIAL-THERAPY</sub></p>
 <p>Herbal hair-care brand site in pink and green: home page plus a separate landing page for every product (made for Facebook ads), cash on delivery order form, WhatsApp ordering, Facebook Pixel and a full admin panel for orders, products and backup.</p>
 <p><kbd>PHP 7.4+</kbd> <kbd>JSON</kbd> <kbd>JavaScript</kbd> <kbd>FB Pixel</kbd> <kbd>Admin panel</kbd></p>
-<p><a href="https://abid2929.github.io/JOVIAL-THERAPY/"><img src="assets/ui/b-shop.svg" alt="Open" height="34"></a> <a href="https://abid2929.github.io/JOVIAL-THERAPY/admin/index.html"><img src="assets/ui/b-admin.svg" alt="Admin demo" height="34"></a> <a href="https://github.com/abid2929/JOVIAL-THERAPY"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
+<p><a href="https://abid2929.github.io/JOVIAL-THERAPY/shop/"><img src="assets/ui/b-shop.svg" alt="Open" height="34"></a> <a href="https://abid2929.github.io/JOVIAL-THERAPY/admin/index.html"><img src="assets/ui/b-admin.svg" alt="Admin demo" height="34"></a> <a href="https://github.com/abid2929/JOVIAL-THERAPY"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
 <br clear="all">
 <p><b>🎯 4 product landing pages for Facebook ads, tap one to open it:</b></p>
 <p align="center">
