@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/ui/stats.svg" alt="11 websites built · 7 live on real domains · 6 online shops with admin · Bangla + English" width="100%">
+  <img src="assets/ui/stats.svg" alt="12 websites built · 7 live on real domains · 7 online shops with admin · Bangla + English" width="100%">
 </p>
 
 ---
@@ -139,6 +139,24 @@
 <p>Red and white shop for 100+ digital subscriptions (ChatGPT, Gemini, Claude, Netflix, Spotify, Canva, VPN): instant search, 10 category shortcuts, a page for every product, bKash / Nagad / Rocket and a 5-tab phone bar.</p>
 <p><kbd>HTML</kbd> <kbd>JavaScript</kbd> <kbd>PHP</kbd> <kbd>JSON</kbd></p>
 <p><a href="https://abid2929.github.io/ELITE-SMART-HUB/"><img src="assets/ui/b-shop.svg" alt="Open" height="34"></a> <a href="https://abid2929.github.io/ELITE-SMART-HUB/admin/"><img src="assets/ui/b-admin.svg" alt="Admin demo" height="34"></a> <a href="https://github.com/abid2929/ELITE-SMART-HUB"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<a href="https://abid2929.github.io/jovial-therapy/"><img src="assets/sites/jovial-therapy.jpg" alt="Jovial Therapy herbal hair care website on PC and phone" width="52%" align="left"></a>
+<h3>🌿 Jovial Therapy by Essha</h3>
+<p><img src="assets/ui/s-pages.svg" alt="pages" height="22">&nbsp; <sub>abid2929.github.io/jovial-therapy</sub></p>
+<p>Herbal hair-care brand site in pink and green: home page plus a separate landing page for every product (made for Facebook ads), cash on delivery order form, WhatsApp ordering, Facebook Pixel and a full admin panel for orders, products and backup.</p>
+<p><kbd>PHP 7.4+</kbd> <kbd>JSON</kbd> <kbd>JavaScript</kbd> <kbd>FB Pixel</kbd> <kbd>Admin panel</kbd></p>
+<p><a href="https://abid2929.github.io/jovial-therapy/"><img src="assets/ui/b-shop.svg" alt="Open" height="34"></a> <a href="https://github.com/abid2929/jovial-therapy"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
+<br clear="all">
+<p><b>🎯 4 product landing pages for Facebook ads, tap one to open it:</b></p>
+<p align="center">
+  <a href="https://abid2929.github.io/jovial-therapy/product/therapy-hair-oil/"><img src="assets/sites/jt-page-1.jpg" alt="Therapy Hair Oil" width="24%"></a>
+  <a href="https://abid2929.github.io/jovial-therapy/product/herbal-hair-pack/"><img src="assets/sites/jt-page-2.jpg" alt="Herbal Hair Pack" width="24%"></a>
+  <a href="https://abid2929.github.io/jovial-therapy/product/jovial-coconut-oil/"><img src="assets/sites/jt-page-3.jpg" alt="Jovial Coconut Oil" width="24%"></a>
+  <a href="https://abid2929.github.io/jovial-therapy/product/hair-care-combo/"><img src="assets/sites/jt-page-4.jpg" alt="Hair Care Combo" width="24%"></a>
+</p>
 </td>
 </tr>
 </table>
