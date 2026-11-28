@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/ui/stats.svg" alt="11 websites built · 6 live on real domains · 6 online shops with admin · Bangla + English" width="100%">
+  <img src="assets/ui/stats.svg" alt="11 websites built · 7 live on real domains · 6 online shops with admin · Bangla + English" width="100%">
 </p>
 
 ---
@@ -80,7 +80,17 @@
 <p><a href="https://petversebd.com/"><img src="assets/ui/b-shop.svg" alt="Open" height="34"></a> <a href="https://github.com/abid2929/petverse"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://jutarbazarbd.com/"><img src="assets/sites/jutar-bazar.jpg" alt="Jutar Bazar online shoe shop" width="100%"></a>
+<a href="https://bashundharakaziofficebd.com/"><img src="assets/sites/kazi.jpg" alt="Bashundhara Kazi Office website" width="100%"></a>
+<h3>🕌 Bashundhara Kazi Office</h3>
+<p><img src="assets/ui/s-live.svg" alt="live" height="22">&nbsp; <sub>bashundharakaziofficebd.com</sub></p>
+<p>Bilingual (Bangla + English) service website for a Kazi office in Dhaka: services, photo gallery, videos, contact and a private admin panel.</p>
+<p><kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>JavaScript</kbd> <kbd>PHP</kbd></p>
+<p><a href="https://bashundharakaziofficebd.com/"><img src="assets/ui/b-visit.svg" alt="Open" height="34"></a> <a href="https://github.com/abid2929/BASHUNDHARA-KAZI-OFFICE-"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<a href="https://jutarbazarbd.com/"><img src="assets/sites/jutar-bazar.jpg" alt="Jutar Bazar online shoe shop" width="52%" align="left"></a>
 <h3>👟 Jutar Bazar</h3>
 <p><img src="assets/ui/s-live.svg" alt="live" height="22">&nbsp; <sub>jutarbazarbd.com</sub></p>
 <p>Bangla-first online shoe shop: light premium banners, style cards, cart, cash on delivery, order tracking and WhatsApp ordering. Bangla admin with sales chart and AI auto captions.</p>
@@ -139,16 +149,8 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<a href="https://bashundharakaziofficebd.com/"><img src="assets/sites/kazi.jpg" alt="Bashundhara Kazi Office website" width="100%"></a>
-<h3>🕌 Bashundhara Kazi Office</h3>
-<p>🔗 <sub>bashundharakaziofficebd.com</sub></p>
-<p>Bilingual (Bangla + English) service website for a Kazi office in Dhaka: services, photo gallery, videos, contact and a private admin panel.</p>
-<p><kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>JavaScript</kbd> <kbd>PHP</kbd></p>
-<p><a href="https://bashundharakaziofficebd.com/"><img src="assets/ui/b-visit.svg" alt="Open" height="34"></a> <a href="https://github.com/abid2929/BASHUNDHARA-KAZI-OFFICE-"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://social.boostnixmedia.com/"><img src="assets/sites/social.jpg" alt="Boostnix Social publishing platform" width="100%"></a>
+<td colspan="2" valign="top">
+<a href="https://social.boostnixmedia.com/"><img src="assets/sites/social.jpg" alt="Boostnix Social publishing platform" width="52%" align="left"></a>
 <h3>📣 Boostnix Social</h3>
 <p>🔗 <sub>social.boostnixmedia.com</sub></p>
 <p>Social media publishing platform: write once and post or schedule to Facebook, Instagram, YouTube, TikTok, X, Threads, LinkedIn, Pinterest, Telegram and WhatsApp, with a calendar, bulk scheduler, analytics and an AI assistant.</p>
