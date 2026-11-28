@@ -110,7 +110,7 @@
 <a href="https://abid2929.github.io/DHAKA-BUS-FARE/"><img src="assets/sites/bus-fare.jpg" alt="Dhaka Bus Fare app on PC and phone" width="52%" align="left"></a>
 <h3>🚌 Dhaka Bus Fare</h3>
 <p><img src="assets/ui/s-pages.svg" alt="pages" height="22">&nbsp; <sub>abid2929.github.io/DHAKA-BUS-FARE</sub></p>
-<p>A free, app-style tool for Dhaka commuters, now with 4 separate pages: Fare finder, All routes, All stops and Bus companies. Type any two stops (Bangla, Banglish or with typos) and instantly get the official BRTA fare, the student fare, the distance and every stop on the way. On PC the trip is drawn on a map; on phone it works like a ride app with a bottom tab bar. Also: 113 routes, 300+ stops, 82 bus companies, one-change trip suggestions, dark mode and a Bangla helper bot.</p>
+<p>A free, ride-app style tool for Dhaka commuters with 4 pages: Fare finder, All routes, All stops and Bus companies. Type any two stops (Bangla, Banglish or with typos) and get the official BRTA fare, the student fare and the distance, with the route drawn on a map with direction arrows, next stops with minutes, your nearest stop by GPS and saved trips. Installable as a phone app. 113 routes, 300+ stops, dark mode and a Bangla help bot.</p>
 <p><kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>JavaScript</kbd> <kbd>BRTA fare data</kbd> <kbd>Bangla bot</kbd></p>
 <p><a href="https://abid2929.github.io/DHAKA-BUS-FARE/"><img src="assets/ui/b-demo.svg" alt="Open" height="34"></a> <a href="https://github.com/abid2929/DHAKA-BUS-FARE"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
 <br clear="all">
