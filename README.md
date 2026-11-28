@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/ui/stats.svg" alt="11 websites built · 8 live on real domains · 6 online shops with admin · Bangla + English" width="100%">
+  <img src="assets/ui/stats.svg" alt="11 websites built · 6 live on real domains · 6 online shops with admin · Bangla + English" width="100%">
 </p>
 
 ---
@@ -88,24 +88,6 @@
 <p><a href="https://jutarbazarbd.com/"><img src="assets/ui/b-visit.svg" alt="Open" height="34"></a> <a href="https://github.com/abid2929/JUTAR-BAZAR"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://bashundharakaziofficebd.com/"><img src="assets/sites/kazi.jpg" alt="Bashundhara Kazi Office website" width="100%"></a>
-<h3>🕌 Bashundhara Kazi Office</h3>
-<p><img src="assets/ui/s-live.svg" alt="live" height="22">&nbsp; <sub>bashundharakaziofficebd.com</sub></p>
-<p>Bilingual (Bangla + English) service website for a Kazi office in Dhaka: services, photo gallery, videos, contact and a private admin panel.</p>
-<p><kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>JavaScript</kbd> <kbd>PHP</kbd></p>
-<p><a href="https://bashundharakaziofficebd.com/"><img src="assets/ui/b-visit.svg" alt="Open" height="34"></a> <a href="https://github.com/abid2929/BASHUNDHARA-KAZI-OFFICE-"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://social.boostnixmedia.com/"><img src="assets/sites/social.jpg" alt="Boostnix Social publishing platform" width="100%"></a>
-<h3>📣 Boostnix Social</h3>
-<p><img src="assets/ui/s-live.svg" alt="live" height="22">&nbsp; <sub>social.boostnixmedia.com</sub></p>
-<p>Social media publishing platform: write once and post or schedule to Facebook, Instagram, YouTube, TikTok, X, Threads, LinkedIn, Pinterest, Telegram and WhatsApp, with a calendar, bulk scheduler, analytics and an AI assistant.</p>
-<p><kbd>PHP 8</kbd> <kbd>SQLite</kbd> <kbd>Cron</kbd> <kbd>Official APIs</kbd> <kbd>Gemini AI</kbd></p>
-<p><a href="https://social.boostnixmedia.com/"><img src="assets/ui/b-app.svg" alt="Open" height="34"></a></p>
-</td>
-</tr>
 </table>
 
 <a id="live-demos"></a>
@@ -151,6 +133,30 @@
 </tr>
 </table>
 
+<a id="more-projects"></a>
+
+<p align="center"><img src="assets/ui/h-more.svg" alt="More projects" width="100%"></p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://bashundharakaziofficebd.com/"><img src="assets/sites/kazi.jpg" alt="Bashundhara Kazi Office website" width="100%"></a>
+<h3>🕌 Bashundhara Kazi Office</h3>
+<p>🔗 <sub>bashundharakaziofficebd.com</sub></p>
+<p>Bilingual (Bangla + English) service website for a Kazi office in Dhaka: services, photo gallery, videos, contact and a private admin panel.</p>
+<p><kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>JavaScript</kbd> <kbd>PHP</kbd></p>
+<p><a href="https://bashundharakaziofficebd.com/"><img src="assets/ui/b-visit.svg" alt="Open" height="34"></a> <a href="https://github.com/abid2929/BASHUNDHARA-KAZI-OFFICE-"><img src="assets/ui/b-code.svg" alt="Code" height="34"></a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://social.boostnixmedia.com/"><img src="assets/sites/social.jpg" alt="Boostnix Social publishing platform" width="100%"></a>
+<h3>📣 Boostnix Social</h3>
+<p>🔗 <sub>social.boostnixmedia.com</sub></p>
+<p>Social media publishing platform: write once and post or schedule to Facebook, Instagram, YouTube, TikTok, X, Threads, LinkedIn, Pinterest, Telegram and WhatsApp, with a calendar, bulk scheduler, analytics and an AI assistant.</p>
+<p><kbd>PHP 8</kbd> <kbd>SQLite</kbd> <kbd>Cron</kbd> <kbd>Official APIs</kbd> <kbd>Gemini AI</kbd></p>
+<p><a href="https://social.boostnixmedia.com/"><img src="assets/ui/b-app.svg" alt="Open" height="34"></a></p>
+</td>
+</tr>
+</table>
 
 <sub>Every shop comes with an easy admin panel I designed, in Bangla and English: products, orders, banners, reviews, delivery charges, staff roles and backups, all from a phone.</sub>
 
